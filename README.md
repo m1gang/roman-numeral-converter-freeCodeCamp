@@ -25,15 +25,13 @@ La aplicación convierte un número arábigo (decimal) en su equivalente en núm
 ---
 
 ## 📂 Estructura del Proyecto
+```
 Roman-Numerals-Converter/
 ├── index.html # Página principal
 ├── script.js # Lógica de la conversión
 ├── styles.css # Estilos CSS
 └── README.md # Documentación del proyecto
-
-yaml
-Copiar código
-
+```
 ---
 
 ## 🚀 Cómo Usar
